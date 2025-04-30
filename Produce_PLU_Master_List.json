@@ -1,5 +1,179 @@
 [
   {
+    "category": "Herbs",
+    "item": "Cilantro",
+    "plu": "4889",
+    "organic_available": true
+  },
+  {
+    "category": "Herbs",
+    "item": "Parsley",
+    "plu": "4899",
+    "organic_available": true
+  },
+  {
+    "category": "Herbs",
+    "item": "Dill",
+    "plu": "4891",
+    "organic_available": true
+  },
+  {
+    "category": "Herbs",
+    "item": "Mint",
+    "plu": "4896",
+    "organic_available": true
+  },
+  {
+    "category": "Herbs",
+    "item": "Rosemary",
+    "plu": "4894",
+    "organic_available": true
+  },
+  {
+    "category": "Melons",
+    "item": "Cantaloupe",
+    "plu": "4050",
+    "organic_available": true
+  },
+  {
+    "category": "Melons",
+    "item": "Honeydew Melon",
+    "plu": "4034",
+    "organic_available": true
+  },
+  {
+    "category": "Melons",
+    "item": "Watermelon Seedless",
+    "plu": "4032",
+    "organic_available": false
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Banana",
+    "plu": "4011",
+    "organic_available": true
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Mango",
+    "plu": "4051",
+    "organic_available": true
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Pineapple",
+    "plu": "4430",
+    "organic_available": true
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Papaya",
+    "plu": "4394",
+    "organic_available": true
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Kiwi",
+    "plu": "4030",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Green Leaf Lettuce",
+    "plu": "4076",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Red Leaf Lettuce",
+    "plu": "4075",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Romaine Lettuce",
+    "plu": "4640",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Iceberg Lettuce",
+    "plu": "4061",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Escarole",
+    "plu": "4605",
+    "organic_available": false
+  },
+  {
+    "category": "Specialty Items",
+    "item": "White Mushrooms",
+    "plu": "4085",
+    "organic_available": true
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Baby Bella Mushrooms",
+    "plu": "4650",
+    "organic_available": true
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Shiitake Mushrooms",
+    "plu": "4651",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Yellow Squash",
+    "plu": "4784",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Butternut Squash",
+    "plu": "4759",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Spaghetti Squash",
+    "plu": "4776",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Corn Bi-Color",
+    "plu": "4078",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Corn Yellow",
+    "plu": "4077",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Turnip",
+    "plu": "4811",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Rutabaga",
+    "plu": "4095",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Celery Root",
+    "plu": "4585",
+    "organic_available": true
+  },
+  {
     "category": "Apples",
     "item": "Fuji Apple",
     "plu": "4131",
@@ -48,6 +222,18 @@
     "organic_available": true
   },
   {
+    "category": "Apples",
+    "item": "SnapDragon Apple",
+    "plu": "3628",
+    "organic_available": false
+  },
+  {
+    "category": "Apples",
+    "item": "Cosmic Crisp Apple",
+    "plu": "3507",
+    "organic_available": true
+  },
+  {
     "category": "Citrus",
     "item": "Navel Orange",
     "plu": "4012",
@@ -87,6 +273,12 @@
     "category": "Citrus",
     "item": "Sumo Citrus",
     "plu": "3632",
+    "organic_available": false
+  },
+  {
+    "category": "Citrus",
+    "item": "Golden Nugget Mandarin",
+    "plu": "4388",
     "organic_available": false
   },
   {
@@ -190,5 +382,197 @@
     "item": "Fresh Figs",
     "plu": "4266",
     "organic_available": true
+  },
+  {
+    "category": "Potatoes",
+    "item": "Russet Potato",
+    "plu": "4072",
+    "organic_available": true
+  },
+  {
+    "category": "Potatoes",
+    "item": "Red Potato",
+    "plu": "4073",
+    "organic_available": true
+  },
+  {
+    "category": "Potatoes",
+    "item": "Yukon Gold Potato",
+    "plu": "4727",
+    "organic_available": true
+  },
+  {
+    "category": "Onions",
+    "item": "Yellow Onion",
+    "plu": "4093",
+    "organic_available": true
+  },
+  {
+    "category": "Onions",
+    "item": "Red Onion",
+    "plu": "4082",
+    "organic_available": true
+  },
+  {
+    "category": "Onions",
+    "item": "White Onion",
+    "plu": "4663",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Broccoli",
+    "plu": "4060",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Cauliflower",
+    "plu": "4079",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Brussels Sprouts",
+    "plu": "4550",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Zucchini",
+    "plu": "4067",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Asparagus",
+    "plu": "4080",
+    "organic_available": true
+  },
+  {
+    "category": "Tomatoes",
+    "item": "Roma Tomato",
+    "plu": "4087",
+    "organic_available": true
+  },
+  {
+    "category": "Tomatoes",
+    "item": "Vine Ripe Tomato",
+    "plu": "4664",
+    "organic_available": true
+  },
+  {
+    "category": "Tomatoes",
+    "item": "Cherry Tomato",
+    "plu": "3151",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Kale",
+    "plu": "4627",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Spinach",
+    "plu": "4090",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Romaine Lettuce",
+    "plu": "4640",
+    "organic_available": true
+  },
+  {
+    "category": "Herbs",
+    "item": "Cilantro",
+    "plu": "4889",
+    "organic_available": true
+  },
+  {
+    "category": "Herbs",
+    "item": "Parsley",
+    "plu": "4899",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Carrot",
+    "plu": "4562",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Parsnip",
+    "plu": "4672",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Beet",
+    "plu": "4540",
+    "organic_available": true
+  },
+  {
+    "category": "Peppers",
+    "item": "Green Bell Pepper",
+    "plu": "4065",
+    "organic_available": true
+  },
+  {
+    "category": "Peppers",
+    "item": "Red Bell Pepper",
+    "plu": "4688",
+    "organic_available": true
+  },
+  {
+    "category": "Peppers",
+    "item": "Yellow Bell Pepper",
+    "plu": "4689",
+    "organic_available": true
+  },
+  {
+    "category": "Peppers",
+    "item": "Jalape\u00f1o",
+    "plu": "4693",
+    "organic_available": true
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Artichoke",
+    "plu": "4084",
+    "organic_available": true
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Leek",
+    "plu": "4629",
+    "organic_available": true
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Fennel",
+    "plu": "4515",
+    "organic_available": true
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Celery Root",
+    "plu": "4585",
+    "organic_available": true
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Jicama",
+    "plu": "4626",
+    "organic_available": true
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Fiddlehead Ferns",
+    "plu": "4601",
+    "organic_available": false
   }
 ]
