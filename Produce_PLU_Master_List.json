@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Apples",
+    "item": "Fuji Apple",
+    "plu": "4131",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Navel Orange",
+    "plu": "4012",
+    "organic_available": true
+  }
+]
