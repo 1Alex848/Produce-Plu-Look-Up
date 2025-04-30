@@ -574,5 +574,125 @@
     "item": "Fiddlehead Ferns",
     "plu": "4601",
     "organic_available": false
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Passion Fruit",
+    "plu": "4397",
+    "organic_available": false
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Cherimoya",
+    "plu": "4257",
+    "organic_available": false
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Starfruit (Carambola)",
+    "plu": "4256",
+    "organic_available": false
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Guava",
+    "plu": "4299",
+    "organic_available": false
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Tamarind",
+    "plu": "4791",
+    "organic_available": false
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Jicama",
+    "plu": "4626",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Yam",
+    "plu": "4816",
+    "organic_available": false
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Malanga",
+    "plu": "4792",
+    "organic_available": false
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Taro Root",
+    "plu": "4794",
+    "organic_available": false
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Eggplant",
+    "plu": "4081",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Japanese Eggplant",
+    "plu": "4601",
+    "organic_available": false
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "White Eggplant",
+    "plu": "4594",
+    "organic_available": false
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Graffiti Eggplant",
+    "plu": "4602",
+    "organic_available": false
+  },
+  {
+    "category": "Peppers",
+    "item": "Habanero Pepper",
+    "plu": "3125",
+    "organic_available": false
+  },
+  {
+    "category": "Peppers",
+    "item": "Poblano Pepper",
+    "plu": "4705",
+    "organic_available": true
+  },
+  {
+    "category": "Peppers",
+    "item": "Shishito Pepper",
+    "plu": "4711",
+    "organic_available": false
+  },
+  {
+    "category": "Peppers",
+    "item": "Long Hot Pepper",
+    "plu": "4691",
+    "organic_available": false
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Romanesco",
+    "plu": "4551",
+    "organic_available": false
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Purple Cauliflower",
+    "plu": "4568",
+    "organic_available": false
+  },
+  {
+    "category": "Specialty Items",
+    "item": "Baby Bok Choy",
+    "plu": "4545",
+    "organic_available": true
   }
 ]
