@@ -694,5 +694,35 @@
     "item": "Baby Bok Choy",
     "plu": "4545",
     "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Green Beans",
+    "plu": "4066",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Snow Peas",
+    "plu": "4092",
+    "organic_available": false
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Sugar Snap Peas",
+    "plu": "4674",
+    "organic_available": true
+  },
+  {
+    "category": "Melons",
+    "item": "Mini Watermelon",
+    "plu": "3421",
+    "organic_available": false
+  },
+  {
+    "category": "Melons",
+    "item": "Seeded Watermelon",
+    "plu": "4031",
+    "organic_available": false
   }
 ]
