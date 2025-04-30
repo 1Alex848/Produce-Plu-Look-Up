@@ -726,25 +726,25 @@
     "organic_available": false
   },
   {
-    "category": "Greens",
+    "category": "Cabbage",
     "item": "Green Cabbage",
     "plu": "4069",
     "organic_available": true
   },
   {
-    "category": "Greens",
+    "category": "Cabbage",
     "item": "Red Cabbage",
     "plu": "4554",
     "organic_available": true
   },
   {
-    "category": "Greens",
+    "category": "Cabbage",
     "item": "Napa Cabbage",
     "plu": "4552",
     "organic_available": true
   },
   {
-    "category": "Greens",
+    "category": "Cabbage",
     "item": "Savoy Cabbage",
     "plu": "4555",
     "organic_available": false
