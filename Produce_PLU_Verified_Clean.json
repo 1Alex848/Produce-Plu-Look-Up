@@ -1,0 +1,254 @@
+[
+  {
+    "category": "Apples",
+    "item": "Fuji Apple",
+    "plu": "4131",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Gala Apple",
+    "plu": "4133",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Granny Smith Apple",
+    "plu": "4017",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Honeycrisp Apple",
+    "plu": "3283",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Red Delicious Apple",
+    "plu": "4015",
+    "organic_available": true
+  },
+  {
+    "category": "Bananas",
+    "item": "Banana",
+    "plu": "4011",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Navel Orange",
+    "plu": "4012",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Lemon",
+    "plu": "4053",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Lime",
+    "plu": "4048",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Tangerine",
+    "plu": "4453",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Grapefruit",
+    "plu": "4285",
+    "organic_available": true
+  },
+  {
+    "category": "Berries",
+    "item": "Strawberries",
+    "plu": "4028",
+    "organic_available": true
+  },
+  {
+    "category": "Berries",
+    "item": "Blueberries",
+    "plu": "4240",
+    "organic_available": true
+  },
+  {
+    "category": "Berries",
+    "item": "Raspberries",
+    "plu": "4054",
+    "organic_available": true
+  },
+  {
+    "category": "Melons",
+    "item": "Cantaloupe",
+    "plu": "4050",
+    "organic_available": true
+  },
+  {
+    "category": "Melons",
+    "item": "Honeydew Melon",
+    "plu": "4034",
+    "organic_available": true
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Mango",
+    "plu": "4051",
+    "organic_available": true
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Pineapple",
+    "plu": "4430",
+    "organic_available": true
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Papaya",
+    "plu": "4394",
+    "organic_available": true
+  },
+  {
+    "category": "Tropical Fruits",
+    "item": "Kiwi",
+    "plu": "4030",
+    "organic_available": true
+  },
+  {
+    "category": "Potatoes",
+    "item": "Russet Potato",
+    "plu": "4072",
+    "organic_available": true
+  },
+  {
+    "category": "Potatoes",
+    "item": "Red Potato",
+    "plu": "4073",
+    "organic_available": true
+  },
+  {
+    "category": "Potatoes",
+    "item": "Yukon Gold Potato",
+    "plu": "4727",
+    "organic_available": true
+  },
+  {
+    "category": "Onions",
+    "item": "Yellow Onion",
+    "plu": "4093",
+    "organic_available": true
+  },
+  {
+    "category": "Onions",
+    "item": "Red Onion",
+    "plu": "4082",
+    "organic_available": true
+  },
+  {
+    "category": "Onions",
+    "item": "White Onion",
+    "plu": "4663",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Broccoli",
+    "plu": "4060",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Cauliflower",
+    "plu": "4079",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Brussels Sprouts",
+    "plu": "4550",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Zucchini",
+    "plu": "4067",
+    "organic_available": true
+  },
+  {
+    "category": "Cooking Vegetables",
+    "item": "Asparagus",
+    "plu": "4080",
+    "organic_available": true
+  },
+  {
+    "category": "Tomatoes",
+    "item": "Roma Tomato",
+    "plu": "4087",
+    "organic_available": true
+  },
+  {
+    "category": "Tomatoes",
+    "item": "Vine Ripe Tomato",
+    "plu": "4664",
+    "organic_available": true
+  },
+  {
+    "category": "Tomatoes",
+    "item": "Cherry Tomato",
+    "plu": "3151",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Kale",
+    "plu": "4627",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Spinach",
+    "plu": "4090",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Romaine Lettuce",
+    "plu": "4640",
+    "organic_available": true
+  },
+  {
+    "category": "Herbs",
+    "item": "Cilantro",
+    "plu": "4889",
+    "organic_available": true
+  },
+  {
+    "category": "Herbs",
+    "item": "Parsley",
+    "plu": "4899",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Carrot",
+    "plu": "4562",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Parsnip",
+    "plu": "4672",
+    "organic_available": true
+  },
+  {
+    "category": "Root Vegetables",
+    "item": "Beet",
+    "plu": "4540",
+    "organic_available": true
+  }
+]
