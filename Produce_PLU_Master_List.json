@@ -724,5 +724,29 @@
     "item": "Seeded Watermelon",
     "plu": "4031",
     "organic_available": false
+  },
+  {
+    "category": "Greens",
+    "item": "Green Cabbage",
+    "plu": "4069",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Red Cabbage",
+    "plu": "4554",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Napa Cabbage",
+    "plu": "4552",
+    "organic_available": true
+  },
+  {
+    "category": "Greens",
+    "item": "Savoy Cabbage",
+    "plu": "4555",
+    "organic_available": false
   }
 ]
