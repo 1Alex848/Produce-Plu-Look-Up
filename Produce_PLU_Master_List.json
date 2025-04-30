@@ -1,0 +1,194 @@
+[
+  {
+    "category": "Apples",
+    "item": "Fuji Apple",
+    "plu": "4131",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Gala Apple",
+    "plu": "4133",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Granny Smith Apple",
+    "plu": "4017",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Honeycrisp Apple",
+    "plu": "3283",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Red Delicious Apple",
+    "plu": "4015",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Pink Lady Apple",
+    "plu": "4130",
+    "organic_available": true
+  },
+  {
+    "category": "Apples",
+    "item": "Sweet Tango Apple",
+    "plu": "3603",
+    "organic_available": false
+  },
+  {
+    "category": "Apples",
+    "item": "Envy Apple",
+    "plu": "3616",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Navel Orange",
+    "plu": "4012",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Lemon",
+    "plu": "4053",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Lime",
+    "plu": "4048",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Tangerine",
+    "plu": "4453",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Cara Cara Orange",
+    "plu": "3110",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Mandarin",
+    "plu": "3030",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Sumo Citrus",
+    "plu": "3632",
+    "organic_available": false
+  },
+  {
+    "category": "Citrus",
+    "item": "Minneola Tangelo",
+    "plu": "4383",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Blood Orange",
+    "plu": "4381",
+    "organic_available": true
+  },
+  {
+    "category": "Citrus",
+    "item": "Grapefruit",
+    "plu": "4285",
+    "organic_available": true
+  },
+  {
+    "category": "Pears",
+    "item": "Bartlett Pear",
+    "plu": "4409",
+    "organic_available": true
+  },
+  {
+    "category": "Pears",
+    "item": "Anjou Pear",
+    "plu": "4416",
+    "organic_available": true
+  },
+  {
+    "category": "Pears",
+    "item": "Bosc Pear",
+    "plu": "4026",
+    "organic_available": true
+  },
+  {
+    "category": "Pears",
+    "item": "Asian Pear",
+    "plu": "4408",
+    "organic_available": true
+  },
+  {
+    "category": "Pears",
+    "item": "Red Pear",
+    "plu": "4410",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "Yellow Peach",
+    "plu": "4038",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "White Peach",
+    "plu": "4401",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "Yellow Nectarine",
+    "plu": "4036",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "White Nectarine",
+    "plu": "3035",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "Black Plum",
+    "plu": "4040",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "Red Plum",
+    "plu": "4042",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "Rainier Cherry",
+    "plu": "4258",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "Dark Sweet Cherry",
+    "plu": "4045",
+    "organic_available": true
+  },
+  {
+    "category": "Summer Fruit",
+    "item": "Fresh Figs",
+    "plu": "4266",
+    "organic_available": true
+  }
+]
